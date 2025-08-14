@@ -7,6 +7,7 @@ const navItems = [
   { label: "Services", to: "/services" },
   { label: "Blog", to: "/blog" },
   { label: "Contact", to: "/contact" },
+  { label: "Login", to: "/login" },
 ];
 
 const SiteHeader = () => {
